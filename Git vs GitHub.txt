@@ -1,0 +1,48 @@
+Git
+
+Git is a tool for version control. It keeps track of every change in your code.
+
+You can experiment safely, knowing you can revert to an earlier version anytime.
+
+Commands you’ll often use:
+
+git init → start a new repository
+
+git add . → stage all changes
+
+git commit -m "message" → save a snapshot
+
+git status → see the current state of your project
+
+GitHub
+
+GitHub is an online service where you can host Git repositories.
+
+It allows collaboration with others and sharing your projects.
+
+Features to know:
+
+Clone: copy a repo to your computer
+
+Push: upload your changes
+
+Pull: download updates from others
+
+Pull request: propose changes to a project
+
+How They Work Together
+
+Use Git locally to track changes.
+
+Use GitHub to back up your code online and collaborate.
+
+Typical workflow:
+
+Make changes locally → git add → git commit
+
+Send changes to GitHub → git push
+
+Update your local repo from GitHub → git pull
+
+Key Idea:
+Git is the engine that manages your code history, while GitHub is the platform where you can share, collaborate, and showcase your work.
