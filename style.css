@@ -1,0 +1,47 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header section */
+header {
+    background-color: #0078d7;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Main content */
+main {
+    padding: 30px;
+}
+
+main p {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Button styling */
+button {
+    background-color: #0078d7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+/* Footer section */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    margin-top: 40px;
+}
